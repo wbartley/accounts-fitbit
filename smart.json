@@ -1,8 +1,8 @@
 {
 	"name": "accounts-fitbit",
 	"description": "Fitbit OAuth login service for Meteor",
-	"homepage": "",
-	"author": "William Bartley <wbartley@gmail.com>",
-	"version": "0.0.1",
-	"git": ""
+	"homepage": "https://github.com/wbartley/accounts-fitbit",
+	"author": "wbartley <wbartley@gmail.com>",
+	"version": "0.1.0",
+	"git": "https://github.com/wbartley/accounts-fitbit.git"
 }
