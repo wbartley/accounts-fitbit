@@ -3,7 +3,7 @@
 	"description": "Fitbit OAuth login service for Meteor",
 	"homepage": "https://github.com/wbartley/accounts-fitbit",
 	"author": "William Bartley",
-	"version": "0.1.3",
+	"version": "0.1.4",
 	"git": "https://github.com/wbartley/accounts-fitbit.git",
 	"packages": {
 		"fitbit": {}
