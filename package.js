@@ -5,6 +5,7 @@ Package.describe({
 Package.on_use(function(api) {
   api.use('accounts-base', ['client', 'server']);
   api.use('accounts-oauth', ['client', 'server']);
+  api.use('fitbit', ['client', 'server']);
 
   api.use('http', ['client', 'server']);
   api.use('templating', 'client');
