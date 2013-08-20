@@ -10,12 +10,12 @@ Package.on_use(function(api) {
   	api.use('fitbit', ['client', 'server']);
 
   	api.use('http', ['client', 'server']);
-  	
+
 
   	api.add_files('fitbit_login_button.css', 'client');
 
   	api.add_files('fitbit.js');
-
+	api.add_files('fitbit_common.js', ['client', 'server']);
 
 });
 
