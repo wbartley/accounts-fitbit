@@ -7,7 +7,10 @@ Latest Version: **0.1.4**
 
 Previous Version: 0.1.3
 
-Works on Meteor 0.6.5
+Works on Meteor 0.6.5*
+
+*Note:
+Fitbit made a recent change to their OAuth1 verification. The oauth1_binding.js has been patched, but not released. For now you will need to use meteor --release 0.7.1-rc0 or greater.
 
 ## Install
 
